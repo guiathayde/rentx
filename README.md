@@ -15,7 +15,7 @@
 
 ## 🧪 Tecnologies
 
-This project was developed using cutting edge front-end technologies.
+This project was developed using cutting edge back-end technologies.
 
 - [Express](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
